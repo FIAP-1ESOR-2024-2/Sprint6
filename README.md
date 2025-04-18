@@ -1,16 +1,15 @@
-  # Roadmap - Sprint 5
+  # Roadmap - Sprint 6
 
 
 
   # Integrantes do Grupo
 
-  - Enrico Brosque Palma RM559346;
-  - Jeferson Maciel RM553863;
   - Felipe Vaz Coelho RM560129;
+  - Jeferson Maciel RM553863;
 
   # Link do Vídeo
 
-  [Sprint 5](https://youtu.be/5uJvlXllWpo)
+  [Sprint 6](https://youtu.be/5uJvlXllWpo)
 
   # Site Hospedado
 
