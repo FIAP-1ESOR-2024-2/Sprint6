@@ -3,9 +3,8 @@
 
 
   # Integrantes do Grupo
-
+  
   - Felipe Vaz Coelho RM560129;
-  - Jeferson Maciel RM553863;
 
   # Link do Vídeo
 
